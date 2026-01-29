@@ -1,2 +1,2 @@
 # bleak
-Botched Legislation for Earth: Assessments and Knowledge. A collaborative inventory of failed and unsuccessful environmental policies
+Botched Legislation for the Earth: Assessments and Knowledge. A collaborative inventory of failed and unsuccessful environmental policies
