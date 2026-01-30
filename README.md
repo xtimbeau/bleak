@@ -1,5 +1,5 @@
 # Project Bleak 
-(***Botched Legislation for the Earth: Assessments and Knowledge***)
+***Botched Legislation for the Earth: Assessments and Knowledge***
 
 Project Bleak is a collaborative inventory of failed and unsuccessful environmental policies
 
