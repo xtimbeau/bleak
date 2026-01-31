@@ -33,3 +33,6 @@ We hope to have access to [overton](https://www.overton.io/) soon.
 
 This depot is made to share data, ideas and analysis between the (small) community working on bleak. Feel free to contact [Anissa](mailto:anissa.saumtally@sciencespo.fr) or [Xavier](mailto:xavier.timbeau@sciencespo.fr).
 
+## How to contribute
+
+For now, the project is opne to students from EoE AoC 2026 class, doing there final assignment on Environmental Policy Evalutation. Please contact [Anissa](mailto:anissa.saumtally@sciencespo.fr) or [Xavier](mailto:xavier.timbeau@sciencespo.fr) to be included in the github. You should then create a directory for uploading your material and use the main branch.
