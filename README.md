@@ -9,19 +9,21 @@ The work has started in January 2026 and is open to students of EAP master EoE c
 
 The goal is to :
 
--   build a database of environmental policies, failed or successful anywhere on the planet, at any moment
+-    build a database of environmental policies, failed or successful anywhere on the planet, at any moment
 
--   in time document all evaluations and analysis of the policies
+-    in time document all evaluations and analysis of the policies
 
--   identify the factors that provoke failure
+-    identify the factors that provoke failure
 
--   propose guidelines to avoid repeated failure in the future
+-    propose guidelines to avoid repeated failure in the future
 
 ## Some resources
 
 Identified resources are:
 
-1.  [Contexte](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1d4eftp/alma991007642158705808)
+1.   [PINE](https://www.oecd.org/en/data/datasets/policy-instruments-for-the-environment-pine-database.html)
+
+1.   [Contexte](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1d4eftp/alma991007642158705808)
 
 2.   [LIEPP data](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1d4eftp/alma991007642158705808)
 
